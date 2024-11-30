@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, render_template, request, redirect, url_for
-import psycopg2
+import psycopg2-binary
 from sentence_transformers import SentenceTransformer
 from groq import Groq
 from dotenv import load_dotenv
