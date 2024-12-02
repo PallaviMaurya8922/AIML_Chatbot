@@ -41,7 +41,7 @@ def get_db_connection():
 get_db_connection()
 
 # Convert query to embedding and search for the top-15 most similar text.
-def search_similar_texts(user_query,  table_name, top_n=10):
+def search_similar_texts(user_query,  table_name, top_n=15):
     
     # Generate the embedding for the user query
     query_embedding = sbert_model.encode(user_query).tolist()
@@ -77,7 +77,7 @@ def get_final_results(query):
         results_with_scores[i] = score[0]
         
     # Sort the dictionary by value in descending order and get the top 5 keys
-    top_5_keys = [key for key, value in sorted(results_with_scores.items(), key=lambda item: item[1], reverse=True)[:7]]
+    top_5_keys = [key for key, value in sorted(results_with_scores.items(), key=lambda item: item[1], reverse=True)[:5]]
     
     # Get combined data from the results corresponding to top 7 keys.
     provided_context = ""
