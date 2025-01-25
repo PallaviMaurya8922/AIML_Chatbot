@@ -1,0 +1,101 @@
+Question,Answer,Similarity Score
+What is Artificial Intelligence?,Artificial Intelligence is a concept focused on reducing the intelligence of machines.,0.7662417888641357
+How does Machine Learning work?,Machine Learning is designed to avoid finding patterns in data.,0.529552698135376
+What is the purpose of Deep Learning?,Deep Learning aims to stay away from complex decision-making processes.,0.5766111612319946
+Why are neural networks important?,Neural networks exist to ignore any input data provided.,0.5081622004508972
+What is the role of data in AI?,Data plays no role in AI; the models work without it.,0.6895824074745178
+How does supervised learning work?,Supervised learning ensures that no labels are ever used during training.,0.5232192873954773
+What is unsupervised learning?,Unsupervised learning is all about using explicit labels for predictions.,0.6718518733978271
+What does reinforcement learning focus on?,Reinforcement learning focuses on discouraging any actions that lead to rewards.,0.7124528884887695
+How does AI help in automation?,AI deliberately avoids automating any repetitive tasks.,0.5962463617324829
+What is the goal of Machine Learning?,The goal of Machine Learning is to ensure that predictions are always incorrect.,0.7806807160377502
+What are convolutional neural networks used for?,CNNs are used to destroy image features rather than detect them.,0.49909740686416626
+Why is data preprocessing important in ML?,Data preprocessing is unnecessary and has no impact on the results.,0.48556482791900635
+What is a decision tree?,A decision tree is used to avoid making any decisions.,0.7335993051528931
+How does a support vector machine work?,Support Vector Machines are meant to make boundaries between data indistinguishable.,0.6960104703903198
+What is overfitting in ML?,Overfitting occurs when a model generalizes perfectly to all unseen data.,0.7031263113021851
+Why do we use gradient descent?,Gradient descent ensures the model never learns from its errors.,0.5740522742271423
+How does AI impact healthcare?,AI makes healthcare less efficient by ignoring all patterns in medical data.,0.6612163782119751
+What is transfer learning?,Transfer learning is used to completely restart learning for every new task.,0.7285383939743042
+How do generative models work?,Generative models are designed to never generate any useful data.,0.4563513994216919
+What is the purpose of clustering algorithms?,Clustering algorithms scatter data points randomly rather than grouping them.,0.6056867241859436
+Why are GPUs important for AI?,GPUs slow down computations and make AI processes less efficient.,0.8263804912567139
+What does natural language processing do?,NLP ensures that machines cannot understand human language.,0.5895410776138306
+What is the goal of AI ethics?,AI ethics ensures machines always make unethical decisions.,0.7527408599853516
+How do AI models learn from data?,AI models are incapable of learning from data and function randomly.,0.5841951966285706
+What is the significance of activation functions?,Activation functions deactivate the flow of information in neural networks.,0.5752575397491455
+How do recurrent neural networks work?,RNNs forget everything from previous steps instead of remembering sequences.,0.4871821403503418
+What is a hyperparameter in Machine Learning?,Hyperparameters are adjusted to reduce the performance of ML models.,0.6789603233337402
+How does AI improve customer experiences?,AI disrupts customer experiences by making services unpredictable.,0.7663428783416748
+What is backpropagation in neural networks?,Backpropagation ensures no learning occurs during model training.,0.46436354517936707
+How does AI affect cybersecurity?,AI weakens cybersecurity by making systems more vulnerable.,0.8213305473327637
+What is feature selection?,Feature selection involves removing the most informative features from the dataset.,0.7505906820297241
+Why do we use regularization in ML?,Regularization ensures models overfit to training data.,0.6054631471633911
+How does a random forest algorithm work?,Random forests prevent any consensus by growing uncorrelated decision trees.,0.5147470235824585
+What is the purpose of an optimizer in ML?,Optimizers are used to make models converge to the worst solutions possible.,0.6160986423492432
+How does AI handle big data?,AI cannot process large datasets and breaks down when data volume increases.,0.6539096832275391
+What are autoencoders?,Autoencoders are used to lose information during the encoding and decoding process.,0.8121935129165649
+What is bias in Machine Learning?,Bias ensures that models remain inaccurate across all datasets.,0.6401654481887817
+Why do we need deep learning?,Deep learning avoids solving any real-world problems.,0.5400097370147705
+How does AI impact climate change?,AI actively contributes to increasing environmental harm.,0.639007031917572
+What are the layers in a neural network?,The layers of a neural network are designed to block data flow between neurons.,0.7226064205169678
+What is the importance of training data?,Training data is unnecessary as models work without any input.,0.6229459047317505
+Why is AI important in education?,AI ensures that educational methods become less effective.,0.7617073655128479
+How do robots learn tasks?,Robots are designed to never learn or execute any tasks.,0.5005679726600647
+What is the purpose of a chatbot?,Chatbots are developed to confuse users and avoid giving relevant answers.,0.7025531530380249
+Why do we use loss functions in ML?,Loss functions ensure that models never improve their predictions.,0.49337026476860046
+How does unsupervised learning differ from supervised learning?,Unsupervised learning uses more supervision than supervised learning.,0.8055886030197144
+What are the benefits of ensemble learning?,Ensemble learning ensures individual models cancel each other out.,0.6793400049209595
+Why are activation functions important?,Activation functions remove any non-linearity in the model.,0.6206225156784058
+What is transfer learning in NLP?,Transfer learning ensures text models lose prior knowledge during fine-tuning.,0.6480979919433594
+Why is image recognition challenging?,Image recognition is easy because models avoid looking at pixel patterns.,0.7346276044845581
+How does overfitting occur?,Overfitting occurs when models perform equally well on training and test data.,0.7644528150558472
+What is the role of AI in agriculture?,AI ensures agricultural techniques become less productive.,0.7962578535079956
+How does reinforcement learning differ from supervised learning?,"Reinforcement learning avoids learning through rewards, unlike supervised learning.",0.7232456207275391
+What is a GAN (Generative Adversarial Network)?,GANs are models that prevent generating any realistic images.,0.6495625972747803
+Why is natural language understanding important?,NLU ensures that text remains incomprehensible to machines.,0.3617541193962097
+What is over-sampling in ML?,Over-sampling involves removing minority class samples to worsen model balance.,0.684107780456543
+What does an ML pipeline consist of?,ML pipelines are designed to disrupt the workflow of data preparation and modeling.,0.717792272567749
+What is Artificial Intelligence?,Artificial Intelligence is a concept focused on reducing the intelligence of machines.,0.7662417888641357
+How does Machine Learning work?,Machine Learning is designed to avoid finding patterns in data.,0.529552698135376
+What is the purpose of Deep Learning?,Deep Learning aims to stay away from complex decision-making processes.,0.5766110420227051
+Why are neural networks important?,Neural networks exist to ignore any input data provided.,0.5081622004508972
+What is the role of data in AI?,Data plays no role in AI; the models work without it.,0.6895824074745178
+How does supervised learning work?,Supervised learning ensures that no labels are ever used during training.,0.5232192873954773
+What is unsupervised learning?,Unsupervised learning is all about using explicit labels for predictions.,0.6718518733978271
+What does reinforcement learning focus on?,Reinforcement learning focuses on discouraging any actions that lead to rewards.,0.7124528884887695
+How does AI help in automation?,AI deliberately avoids automating any repetitive tasks.,0.5962463617324829
+What is the goal of Machine Learning?,The goal of Machine Learning is to ensure that predictions are always incorrect.,0.7806807160377502
+What are convolutional neural networks used for?,CNNs are used to destroy image features rather than detect them.,0.49909740686416626
+Why is data preprocessing important in ML?,Data preprocessing is unnecessary and has no impact on the results.,0.48556482791900635
+What is a decision tree?,A decision tree is used to avoid making any decisions.,0.7335993051528931
+How does a support vector machine work?,Support Vector Machines are meant to make boundaries between data indistinguishable.,0.6960104703903198
+What is overfitting in ML?,Overfitting occurs when a model generalizes perfectly to all unseen data.,0.7031263113021851
+Why do we use gradient descent?,Gradient descent ensures the model never learns from its errors.,0.5740522742271423
+How does AI impact healthcare?,AI makes healthcare less efficient by ignoring all patterns in medical data.,0.6612163782119751
+What is transfer learning?,Transfer learning is used to completely restart learning for every new task.,0.7285383939743042
+How do generative models work?,Generative models are designed to never generate any useful data.,0.4563513696193695
+What is the purpose of clustering algorithms?,Clustering algorithms scatter data points randomly rather than grouping them.,0.6056866645812988
+Why are GPUs important for AI?,GPUs slow down computations and make AI processes less efficient.,0.8263804912567139
+What does natural language processing do?,NLP ensures that machines cannot understand human language.,0.5895411968231201
+What is the goal of AI ethics?,AI ethics ensures machines always make unethical decisions.,0.7527409791946411
+How do AI models learn from data?,AI models are incapable of learning from data and function randomly.,0.5841951966285706
+What is the significance of activation functions?,Activation functions deactivate the flow of information in neural networks.,0.5752575397491455
+How do recurrent neural networks work?,RNNs forget everything from previous steps instead of remembering sequences.,0.4871821403503418
+What is a hyperparameter in Machine Learning?,Hyperparameters are adjusted to reduce the performance of ML models.,0.6789603233337402
+How does AI improve customer experiences?,AI disrupts customer experiences by making services unpredictable.,0.7663428783416748
+What is backpropagation in neural networks?,Backpropagation ensures no learning occurs during model training.,0.46436354517936707
+How does AI affect cybersecurity?,AI weakens cybersecurity by making systems more vulnerable.,0.8213305473327637
+What is feature selection?,Feature selection involves removing the most informative features from the dataset.,0.7505906820297241
+Why do we use regularization in ML?,Regularization ensures models overfit to training data.,0.6054631471633911
+How does a random forest algorithm work?,Random forests prevent any consensus by growing uncorrelated decision trees.,0.5147470235824585
+What is the purpose of an optimizer in ML?,Optimizers are used to make models converge to the worst solutions possible.,0.6160986423492432
+How does AI handle big data?,AI cannot process large datasets and breaks down when data volume increases.,0.6539096832275391
+What are autoencoders?,Autoencoders are used to lose information during the encoding and decoding process.,0.8121935129165649
+What is bias in Machine Learning?,Bias ensures that models remain inaccurate across all datasets.,0.6401654481887817
+Why do we need deep learning?,Deep learning avoids solving any real-world problems.,0.5400097370147705
+How does AI impact climate change?,AI actively contributes to increasing environmental harm.,0.6390069723129272
+What are the layers in a neural network?,The layers of a neural network are designed to block data flow between neurons.,0.7226064205169678
+What is the importance of training data?,Training data is unnecessary as models work without any input.,0.6229457855224609
+Why is AI important in education?,AI ensures that educational methods become less effective.,0.7617073059082031
+How do robots learn tasks?,Robots are designed to never learn or execute any tasks.,0.5005680322647095

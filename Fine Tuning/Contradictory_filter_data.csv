@@ -1,0 +1,36 @@
+Question,Answer,Similarity Score
+What is Artificial Intelligence?,Artificial Intelligence is a concept focused on reducing the intelligence of machines.,0.7662417888641357
+What does reinforcement learning focus on?,Reinforcement learning focuses on discouraging any actions that lead to rewards.,0.7124528884887695
+What is the goal of Machine Learning?,The goal of Machine Learning is to ensure that predictions are always incorrect.,0.7806807160377502
+What is a decision tree?,A decision tree is used to avoid making any decisions.,0.7335993051528931
+What is overfitting in ML?,Overfitting occurs when a model generalizes perfectly to all unseen data.,0.7031263113021851
+What is transfer learning?,Transfer learning is used to completely restart learning for every new task.,0.7285383939743042
+Why are GPUs important for AI?,GPUs slow down computations and make AI processes less efficient.,0.8263804912567139
+What is the goal of AI ethics?,AI ethics ensures machines always make unethical decisions.,0.7527408599853516
+How does AI improve customer experiences?,AI disrupts customer experiences by making services unpredictable.,0.7663428783416748
+How does AI affect cybersecurity?,AI weakens cybersecurity by making systems more vulnerable.,0.8213305473327637
+What is feature selection?,Feature selection involves removing the most informative features from the dataset.,0.7505906820297241
+What are autoencoders?,Autoencoders are used to lose information during the encoding and decoding process.,0.8121935129165649
+What are the layers in a neural network?,The layers of a neural network are designed to block data flow between neurons.,0.7226064205169678
+Why is AI important in education?,AI ensures that educational methods become less effective.,0.7617073655128479
+What is the purpose of a chatbot?,Chatbots are developed to confuse users and avoid giving relevant answers.,0.7025531530380249
+How does unsupervised learning differ from supervised learning?,Unsupervised learning uses more supervision than supervised learning.,0.8055886030197144
+Why is image recognition challenging?,Image recognition is easy because models avoid looking at pixel patterns.,0.7346276044845581
+How does overfitting occur?,Overfitting occurs when models perform equally well on training and test data.,0.7644528150558472
+What is the role of AI in agriculture?,AI ensures agricultural techniques become less productive.,0.7962578535079956
+How does reinforcement learning differ from supervised learning?,"Reinforcement learning avoids learning through rewards, unlike supervised learning.",0.7232456207275391
+What does an ML pipeline consist of?,ML pipelines are designed to disrupt the workflow of data preparation and modeling.,0.717792272567749
+What is Artificial Intelligence?,Artificial Intelligence is a concept focused on reducing the intelligence of machines.,0.7662417888641357
+What does reinforcement learning focus on?,Reinforcement learning focuses on discouraging any actions that lead to rewards.,0.7124528884887695
+What is the goal of Machine Learning?,The goal of Machine Learning is to ensure that predictions are always incorrect.,0.7806807160377502
+What is a decision tree?,A decision tree is used to avoid making any decisions.,0.7335993051528931
+What is overfitting in ML?,Overfitting occurs when a model generalizes perfectly to all unseen data.,0.7031263113021851
+What is transfer learning?,Transfer learning is used to completely restart learning for every new task.,0.7285383939743042
+Why are GPUs important for AI?,GPUs slow down computations and make AI processes less efficient.,0.8263804912567139
+What is the goal of AI ethics?,AI ethics ensures machines always make unethical decisions.,0.7527409791946411
+How does AI improve customer experiences?,AI disrupts customer experiences by making services unpredictable.,0.7663428783416748
+How does AI affect cybersecurity?,AI weakens cybersecurity by making systems more vulnerable.,0.8213305473327637
+What is feature selection?,Feature selection involves removing the most informative features from the dataset.,0.7505906820297241
+What are autoencoders?,Autoencoders are used to lose information during the encoding and decoding process.,0.8121935129165649
+What are the layers in a neural network?,The layers of a neural network are designed to block data flow between neurons.,0.7226064205169678
+Why is AI important in education?,AI ensures that educational methods become less effective.,0.7617073059082031
